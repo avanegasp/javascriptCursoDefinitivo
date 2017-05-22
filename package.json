@@ -1,0 +1,24 @@
+{
+  "name": "javascriptdefiitivo",
+  "version": "0.1.0",
+  "description": "página de inicio",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanegasp/javascriptCursoDefinitivo.git"
+  },
+  "keywords": [
+    "animals",
+    "javascript",
+    "cursodefinitivo"
+  ],
+  "author": "angie vanegas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avanegasp/javascriptCursoDefinitivo/issues"
+  },
+  "homepage": "https://github.com/avanegasp/javascriptCursoDefinitivo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
